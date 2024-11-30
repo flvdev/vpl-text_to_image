@@ -1,0 +1,55 @@
+History
+
+2024-11-11 Update Tesseract 5.5.0.
+
+2024-06-06 Update Tesseract 5.40.
+
+2024-05-19 Update Tesseract 5.4.0-rc2.
+
+2024-05-03 Update Tesseract 5.3.4.
+
+2023-10-05 Update Tesseract 5.3.3.
+
+2023-04-01 Update Tesseract 5.3.1. Now uses msys packages. 32 bit installer is no longer provided.
+2022-12-22 Update Tesseract 5.3.0. Now signed with new key.
+
+2022-12-14 Update Tesseract 5.3.0-rc1.
+
+2022-07-12 Update Tesseract 5.2.0. Fixed support for image URL with https.
+
+2022-07-08 Update Tesseract 5.2.0. Broken support for image URL with https.
+
+2022-05-10 Update Tesseract 5.1.0.
+
+2022-01-18 Update Tesseract 5.0.1. Fixed model download.
+
+2022-01-07 Update Tesseract 5.0.1. Model download is broken.
+
+2021-12-01 Update Tesseract 5.0.0.
+
+2021-10-30 Update Tesseract 5.0.0 release candidate 1.
+
+2021-08-11 Update Tesseract 5.0.0 (alpha). Faster (uses 32 bit float instead of 64 bit double).
+
+2021-05-06 Update Tesseract 5.0.0 (alpha). Now supports image URL with https.
+
+2020-11-27 Update Tesseract 5.0.0 (alpha).
+
+2020-03-28 Update Tesseract 5.0.0 (alpha).
+
+2020-02-23 Update Tesseract 5.0.0 (alpha).
+
+2019-10-30 Update Tesseract 5.0.0 (alpha). Added support for OCR from URL. Fixed installation for Lao traineddata.
+2019-10-10 Update Tesseract 5.0.0 (alpha). Uninstall no longer recursively removes the installation directory.
+2019-07-08 Update Tesseract 5.0.0 (alpha). Supports result output on Windows command line.
+2019-06-23 Update Tesseract 5.0.0 (alpha). Supports Windows XP again. Much faster (removed OpenMP).
+2019-05-26 Update Tesseract 5.0.0 (alpha).
+
+2019-05-09 Special edition for elag2019. Training executables which require ICU fail.
+
+2019-03-17 Special edition for *bibtag19.
+
+2019-03-14 Update Tesseract 4.1.0 (RC1). Added support for ALTO output. Missing ICU DLL for training.
+2018-10-30 Update Tesseract 4.0.0.
+
+2018-10-24 Update Tesseract 4.0.0 (RC4).
