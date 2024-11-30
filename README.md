@@ -43,11 +43,13 @@ vpl-text_to_image/
 
 ## ⚙️ **Como Usar**
 ・ Coloque as imagens na pasta input.
+
 ・ Execute o programa:
 ```bash
 python main.py
-・ Verifique os arquivos .txt gerados na pasta out.
 ```
+・ Verifique os arquivos .txt gerados na pasta out.
+
 ---
 
 ## 🛡️ **Licença**
